@@ -1,5 +1,5 @@
 {
-	"geode": "4.5.0",
+	"geode": "4.7.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -8,7 +8,7 @@
 	},
 	"id": "alphalaneous.improved_editor_slider",
 	"name": "Improved Editor Slider",
-	"version": "v1.0.1",
+	"version": "v1.0.2",
 	"developer": "Alphalaneous",
 	"description": "Positions based on last object X",
 	"links": {

@@ -37,7 +37,7 @@ class $modify(MyEditorUI, EditorUI) {
 		float x = -(maxX * m_positionSlider->getThumb()->getValue()) + 100;
 		float y = m_editorLayer->m_objectLayer->getPositionY();
 		m_editorLayer->m_objectLayer->setPosition({x, y});
-		constrainGameLayerPosition(x, y);
+		constrainGameLayerPosition(-100, -100);
 	}
 
 	void updateSlider() {
